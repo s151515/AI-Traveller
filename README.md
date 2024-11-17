@@ -1,2 +1,3 @@
-AI-travel-planner\n
+AI-travel-planner
+
 Let AI be your Guide✨🚀
